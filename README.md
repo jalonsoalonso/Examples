@@ -6,7 +6,7 @@
 
 Official Web: https://www.supertux.org/
 
-Level 1 tile map example: [file](TBE/supertux_level1.stl)
+Level 1 tile map example: [file](TBE/supertux_level1.txt)
 
 1.2 **The Bub's Brothers**
 
